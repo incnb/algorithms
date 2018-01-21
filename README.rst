@@ -1,4 +1,4 @@
-Algorithms
+Narendra's Algorithms
 ==========
 
 .. image:: https://travis-ci.org/nryoung/algorithms.svg?branch=master
